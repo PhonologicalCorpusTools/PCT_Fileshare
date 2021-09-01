@@ -4,7 +4,7 @@
 
 When using PCT, certain special (PCT-specific) files are created. These include .corpus files (for PCT's storage of your corpora), .feature files (for storage of your transcription-to-feature files), .searches files (for storing saved search paramaters), and various .txt files (usually for listing specific results or errors that PCT encounters). 
 
-This GitHub repository holds copies of the built-in .corpus and .feature files, which can be used for back-up or for direct download purposes.
+This GitHub repository holds copies of the built-in .corpus and .feature files, which can be used for back-up or for direct download purposes. There are also two 'master' feature files in .xlsx format ("anything2hayes.xlsx" and "anything2spe.xlsx"), which show how each transcription system's symbols get interpreted in each feature system. These can be downloaded for inspection and/or to serve as a starting point for creating a new transcription to feature system.
 
 To use these files with PCT, you should save them to your PCT working directory. Be default, your PCT working directory is either
 “C:\\Users\\[USER NAME]\\Documents\\PCT\\CorpusTools\\” (for Windows machines), or “~/Documents/PCT/CorpusTools/” (for macOS or Linux machines).
