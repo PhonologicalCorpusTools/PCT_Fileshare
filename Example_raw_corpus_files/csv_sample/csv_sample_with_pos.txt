@@ -1,0 +1,17 @@
+frequency,spelling,transcription,pos
+11.0,atema,ɑ.t.e.m.ɑ,noun
+11.0,enuta,e.n.u.t.ɑ,verb
+6.0, gaga, ɡ.ɑ.ɡ.ɑ,verb
+5.0,mashomisi,m.ɑ.ʃ.o.m.i.s.i,adjective
+2.0,mata,m.ɑ.t.ɑ,noun
+2.0,nata,n.ɑ.t.ɑ,noun
+139.0,sasi,s.ɑ.s.i,verb
+43.0,shashi,ʃ.ɑ.ʃ.i,adjective
+3.0,shisata,ʃ.i.s.ɑ.t.ɑ,verb
+126.0,shushoma,ʃ.u.ʃ.o.m.ɑ,verb
+67.0,ta,t.ɑ,noun
+7.0,tatomi,t.ɑ.t.o.m.i,adjective
+96.0,tishenishu,t.i.ʃ.e.n.i.ʃ.u,noun
+33.0,toni,t.o.n.i,noun
+32.0,tusa,t.u.s.ɑ,verb
+2.0,ʃi,ʃ.i,verb

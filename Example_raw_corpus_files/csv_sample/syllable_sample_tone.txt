@@ -1,0 +1,6 @@
+frequency,spelling,transcription
+1,wo3,w.o3
+2,hao3,h.aʊ3
+3,xiang3,ɕ.j.ɑ.ŋ3
+4,kuai4,k.w.aɪ4
+5,bi4ye4,p.i4-j.ɛ4
