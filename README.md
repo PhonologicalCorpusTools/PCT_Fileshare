@@ -19,7 +19,7 @@ You will find several sub-directories in this directory:
  * “FEATURE” is the folder where all your feature files are saved (cf. https://corpustools.readthedocs.io/en/latest/transcriptions_and_feature_systems.html).
  * “SEARCH” is where you can find recent phonological searches (recent.searches) and saved searches (saved.searches). See https://corpustools.readthedocs.io/en/latest/phonological_search.html#saving-searches for how to save a search.
 
-If you are downloading the .corpus or .feature files from this GitHub repository (https://github.com/PhonologicalCorpusTools/PCT_Fileshare), you should put them into your local CORPUS or FEATURE folder to make sure PCT knows how to access them.
+If you are downloading the .corpus or .feature files from this GitHub repository (https://github.com/PhonologicalCorpusTools/PCT_Fileshare), you should put them into your local CORPUS or FEATURE folder to make sure PCT knows how to access them. Also, please download the file by clicking on it on GitHub and then choosing the "Download File" button from GitHub, NOT by right-clicking the file name and downloading -- the latter will save a pointer to the file rather than the file itself and cause PCT to crash.
 
 Please note that the working directory will not exist if you have never run PCT.
 
